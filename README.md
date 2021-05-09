@@ -58,7 +58,7 @@ ___________________________________________________________
 ____________________________________________________________
 
 
-### -First of all I want to emphasize that on my site system we have admin user & regular user
+### -First of all I want to emphasize that on my site system I have an admin user & regular user
 
 for example :
 
@@ -73,7 +73,7 @@ for example :
 
 # All User in this project: 
 
-user: shaysarussi@gmail.com, gabicohen@gmail.com ,yosef@wallka.co.il, barc1212@gmail.com
+user: shaysarussi@gmail.com, rami4332@gmail.com, gabicohen@gmail.com ,yosef@wallka.co.il, barc1212@gmail.com
 
 pass: 123456
 
@@ -92,7 +92,7 @@ https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=7b3c7905-de92-417f-b294-ad
 In this video => 
 I'm currently logged in with rami4332@gmail.com (that is a regular user.)
 And I make a purchase on the site.
-In the end i'll log in as an admin with the user shaysarussi@gmail.com
+In the end i'll log in as an admin with shaysarussi@gmail.com account,
 and I marked the order as a delivered order
 
 ___________________________________________________________________________________
@@ -143,7 +143,7 @@ https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=01cbcd7a-d9e7-4f09-ac30-ad
 In this video ,I first create a new user with the email "barc1212@gmail.com" and I start making an order..., but in the end I dont complete it. 
 afterwards I will enter into my admin (shaysarussi@gmail.com) and I saw the order of barc1212@gmail.com as unfinished order. 
 Finally I will again enter into barc1212@gmail.com account and I complete the order by paying with PayPal. 
-eventually I go back to admin (shaysarussi@gmail.com) and see the order completed this time
+eventually I go back to admin (shaysarussi@gmail.com) and I saw the order marked as completed.
 
 ___________________________________________________________________________________
 
