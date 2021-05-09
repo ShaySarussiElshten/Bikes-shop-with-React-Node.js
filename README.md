@@ -87,7 +87,7 @@ ________________________________________________________________________________
 
 example video: 
 
-https://pro.panopto.com/Panopto/Pages/Viewer.aspx?id=d2f0a575-c60b-4669-9d29-ad2300b4c8c8
+https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=7b3c7905-de92-417f-b294-ad23010622e7
 
 In this video => 
 I'm currently logged in with rami4332@gmail.com (that is a regular user.)
@@ -102,7 +102,7 @@ ________________________________________________________________________________
 
 example video: 
 
-https://pro.panopto.com/Panopto/Pages/Viewer.aspx?id=28e0e262-b1c8-4c3e-8889-ad2300b4c8f2
+https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=2bd290ea-015a-4fee-a0ae-ad230106611c
 
 ___________________________________________________________________________________
 
@@ -118,7 +118,7 @@ ________________________________________________________________________________
 
 example video: 
 
-https://pro.panopto.com/Panopto/Pages/Viewer.aspx?id=4c27751d-2302-41f9-9df5-ad2300b58f71
+https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=77e0c577-87d4-4611-838c-ad2301068421
 
 
 
@@ -129,7 +129,7 @@ ________________________________________________________________________________
 
 example video: 
 
-https://pro.panopto.com/Panopto/Pages/Viewer.aspx?id=6245849a-c885-4026-96b2-ad2300b69ada
+https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=d99c99d4-fce3-454a-844a-ad230104f28f
 
 ___________________________________________________________________________________
 
@@ -137,7 +137,7 @@ ________________________________________________________________________________
 
 example video: 
 
-https://pro.panopto.com/Panopto/Pages/Viewer.aspx?id=e4f61745-f2f9-40bd-bbe6-ad2300b52e6c
+https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=01cbcd7a-d9e7-4f09-ac30-ad230106c395
 
 
 In this video ,I first create a new user with the email "barc1212@gmail.com" and I start making an order..., but in the end I dont complete it. 
@@ -151,7 +151,7 @@ ________________________________________________________________________________
 
 example video: 
 
-https://pro.panopto.com/Panopto/Pages/Viewer.aspx?id=ba5e2afb-84c3-4a14-bdbf-ad2300b4c92d
+https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=a967980d-dfae-4e53-9a7e-ad230106e9ea
 
 In This video I log in as admin with the email of shaysarussi@gmail.com and then 
 I set barc1212@gmail.com (That is considered a regular user) as admin in my system
@@ -162,7 +162,7 @@ ________________________________________________________________________________
 
 example video: 
 
-https://pro.panopto.com/Panopto/Pages/Viewer.aspx?id=c84b923a-7026-468f-af00-ad2300b4c95a
+https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=394a1be4-445b-4460-88fa-ad230106fbaa
 
 In This video I log in as admin with the email shaysarussi@gmail.com .and then 
 I set barc1212@gmail.com (That is considered as admin user cureently) to regular user back. 
@@ -173,7 +173,8 @@ ________________________________________________________________________________
 
 
 
-
+# The site is also responsively optimized
+https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=b8ce56a2-d90c-4f43-a4c7-ad230105adf1
 
 
 
