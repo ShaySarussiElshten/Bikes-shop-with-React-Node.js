@@ -1,0 +1,182 @@
+body{
+  background-color: #ececec !important;
+}
+
+.card-footer{
+  background-color: transparent !important;
+}
+
+
+main {
+  min-height: 80vh;
+}
+
+h3 {
+  padding: 1rem 0;
+}
+
+h1 {
+  font-size: 1.8rem;
+  padding: 1rem 0;
+}
+
+h2 {
+  font-size: 1.4rem;
+  padding: 0.5rem 0;
+}
+
+.rating span {
+  margin: 0.1rem;
+}
+
+
+
+
+/* width */
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: red; 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #b30000; 
+}
+
+
+.place-form {
+  list-style: none;
+  margin: 0 auto;
+  padding: 1rem;
+  width: 90%;
+  max-width: 60rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 6px;
+  background: white;
+}
+
+
+.place-form-sign{
+  list-style: none;
+  margin: 0 auto;
+  padding: 1rem;
+  width: 100%;
+  max-width: 35rem;
+}
+
+
+.my-form-control {
+  margin-bottom: 1rem;
+}
+
+.my-form-control input,
+.my-form-control textarea,
+.my-form-control label {
+  display: block;
+}
+
+.my-form-control label {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.my-form-control input,
+.my-form-control select ,
+.my-form-control textarea{
+  font: inherit;
+  padding: 0.5rem;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  width: 100%;
+}
+
+.my-form-control input:focus,
+.my-form-control textarea:focus {
+  outline: none;
+  border-color: #240370;
+  background-color: #e0d4fd;
+}
+
+.control-group {
+  display: flex;
+  column-gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.control-group .my-form-control {
+  min-width: 15rem;
+  flex: 1;
+}
+
+.form-actions button {
+  font: inherit;
+  background-color: #240370;
+  color: white;
+  border: 1px solid #240370;
+  padding: 0.5rem 1.5rem;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 1rem;
+}
+
+.form-actions button:hover,
+.form-actions button:active {
+  background-color: #33059e;
+  border-color: #33059e;
+}
+
+.form-actions button:disabled,
+.form-actions button:disabled:hover,
+.form-actions button:disabled:active {
+  background-color: #ccc;
+  color: #292929;
+  border-color: #ccc;
+  cursor: not-allowed;
+}
+
+.form-actions {
+  text-align: right;
+}
+
+
+.invalid input,
+.invalid textarea {
+  border: 1px solid #b40e0e;
+  background-color: #fddddd;
+}
+
+.invalid input:focus,
+.invalid textarea:focus {
+  border-color: #ff8800;
+  background-color: #fbe8d2;
+}
+
+
+
+.error-text {
+  color: #b40e0e;
+}
+
+input:disabled {
+  background: #dddddd !important;
+}
+
+.placholder input:disabled{
+  background-color: rgb(228, 228, 228);
+  color: #292929;
+  border-color: #ccc;
+  cursor: not-allowed;
+}
+
+
